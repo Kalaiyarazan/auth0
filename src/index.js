@@ -8,6 +8,8 @@ const authRouter = require("./routers/auth");
 const userRouter = require("./routers/user");
 const passportAuth0Validator = require("./middlewares/passportAuth0Validator");
 
+//test
+
 /**
  * Creates an instance of the express server
  */
